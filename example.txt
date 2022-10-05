@@ -1,3 +1,5 @@
 Hello, Git!
 
 Learning git branch knowledge.
+
+I'm used to merging branches with git merge.
